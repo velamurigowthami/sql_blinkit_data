@@ -4,17 +4,18 @@
 <br>##Dataset</br>
 
 File Name:-**blinkit Grocery Data.Csv**
+
 ﻿- **Item Fat Content**
 - **Item Identifie**
 - **Item Type** 
- -**Outlet Establishment Year**
- -**Outlet Identifier**
-  -**Outlet Location Type**
-  -**Outlet Size**
-  -**Outlet Type**
-  -**Item Visibility**
-  -**Item Weight** 
-  -**Total Sales**
-  -**Rating**
+- **Outlet Establishment Year**
+- **Outlet Identifier**
+- **Outlet Location Type**
+- **Outlet Size**
+- **Outlet Type**
+- **Item Visibility**
+- **Item Weight** 
+- **Total Sales**
+- **Rating**
 ###
 
