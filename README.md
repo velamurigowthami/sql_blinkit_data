@@ -24,10 +24,13 @@ File Name:-**blinkit Grocery Data.Csv**
 4. **Average Rating**
 ## Analysis
 - **Total sales**
+  
  select cast(sum(total_sales) as decimal(10,2))  as total_sales from blinkit_data
 - **Average Sales**
+  
  select cast(avg(total_sales) as decimal(10,0)) as  avg_sales  from blinkit_data
 - **Average Rating**
+  
 select  cast(avg(rating )  as decimal(10,2)) as average_rating from blinkit_data
 
 
