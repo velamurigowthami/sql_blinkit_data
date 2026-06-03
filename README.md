@@ -4,7 +4,7 @@
 <br>##Dataset</br>
 
 File Name:-**blinkit Grocery Data.Csv**
-
+**Feature:**
 ﻿- **Item Fat Content**
 - **Item Identifie**
 - **Item Type** 
@@ -17,5 +17,10 @@ File Name:-**blinkit Grocery Data.Csv**
 - **Item Weight** 
 - **Total Sales**
 - **Rating**
-###
+## Key Metrics
+1. **Total Sales**
+2. **Average Sales**
+3. **Number of item sold**
+4. **Average Rating**
+
 
