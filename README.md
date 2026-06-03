@@ -1,6 +1,6 @@
 # Blinkit Sales Data Analysis 
 ## problemn Satement
-Blinkit generates large volume of sales data.The goal of this project is to analyze sales performance,customer ratings,and product trends to support better business decision
+<br>Blinkit generates large volume of sales data.The goal of this project is to analyze sales performance,customer ratings,and product trends to support better business decision</br>
 ##Dataset
 File Name:-**blinkit Grocery Data.Csv**
 ﻿-**Item Fat Content**
